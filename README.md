@@ -4,7 +4,7 @@ A collection of LuaU systems and gameplay scripts for Roblox.
 Hi, I am ImperialVakarian, a Roblox programmer learning LuaU. This repository contains example systems and scripts I’ve built to practice Roblox development. Additionally, I do GFX art on Roblox too.
 
 ## 🎓 | Experience
-I have been scripting for 10 months.
+I have been scripting for a total of **11 months**.
 
 ## 🚀 | Current Projects
 - Development Coordinator @Thegamingbutt's S.C.P. Site 98 (Building and Programming)

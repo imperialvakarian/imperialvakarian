@@ -11,7 +11,7 @@ I have been scripting for a total of **11 months**.
 - Developer @tdggdawerdc's and ProDcGamer123's S.C.P. Area 18 (GFX and poster designs)
 
 ## 🧠 | Skills
-- Always ready to learn something new.
+- Always ready to learn something new
 - Ability to adapt to new frameworks and systems
 - Experienced with Visual Studio Code (Rojo)
 
@@ -20,3 +20,6 @@ I am actively improving my skills and adding to this portfolio with more advance
 
 ## Contact me
 **Discord:** imperialvakarian | **Roblox:** ImperialVakarian
+
+## 📃| My Projects
+- N/A - Coming soon.

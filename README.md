@@ -14,12 +14,13 @@ I have been scripting for a total of **11 months**.
 - Always ready to learn something new
 - Ability to adapt to new frameworks and systems
 - Experienced with Visual Studio Code (Rojo)
+- Strong understand in game security
 
 ## 🎯| Goals
 I am actively improving my skills and adding to this portfolio with more advanced systems such as NPC AIs, combat systems, and frameworks.
 
 ## Contact me
-**Discord:** imperialvakarian | **Roblox:** ImperialVakarian
+**Discord:** redrako | **Roblox:** ImperialVakarian
 
 ## 📃| My Projects
 - N/A - Coming soon.
